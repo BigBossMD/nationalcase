@@ -1,0 +1,1033 @@
+{
+	"balance": 11784.2,
+	"profit": 14065.8,
+	"defaultCase": {
+		"id": 0,
+		"name": "New case",
+		"img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+		"description": "Case description",
+		"cat": "Кейсы на деньги",
+		"price": "1",
+		"won": 0,
+		"prizes": [
+			{
+				"name": "New prize",
+				"img": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+				"live": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+				"value": "1",
+				"probability": "1"
+			}
+		]
+	},
+	"cases": [
+		{
+			"id": "1",
+			"name": "Кейс 1-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-50.svg",
+			"description": "Содержит от 1₽ до 50₽",
+			"cat": "Кейсы на деньги",
+			"price": 20,
+			"won": 2801,
+			"prizes": [
+				{
+					"name": "Монета \"1\" рубль",
+					"img": "/templates/site/dist/img/cases/coin-1.svg",
+					"live": "/templates/site/dist/img/cases/coin-1.svg",
+					"value": "1",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"5\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-5.svg",
+					"live": "/templates/site/dist/img/cases/coin-5.svg",
+					"value": "5",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"10\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-10.svg",
+					"live": "/templates/site/dist/img/cases/coin-10.svg",
+					"value": "10",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"15\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-15.svg",
+					"live": "/templates/site/dist/img/cases/coin-15.svg",
+					"value": "15",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"20\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-20.svg",
+					"live": "/templates/site/dist/img/cases/coin-20.svg",
+					"value": "20",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"25\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-25.svg",
+					"live": "/templates/site/dist/img/cases/coin-25.svg",
+					"value": "25",
+					"probability": "4",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"30\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-30.svg",
+					"live": "/templates/site/dist/img/cases/coin-30.svg",
+					"value": "30",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"35\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-35.svg",
+					"live": "/templates/site/dist/img/cases/coin-35.svg",
+					"value": "35",
+					"probability": "3",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"40\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-40.svg",
+					"live": "/templates/site/dist/img/cases/coin-40.svg",
+					"value": "40",
+					"probability": "3",
+					"id": "8"
+				},
+				{
+					"name": "Монета \"45\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-45.svg",
+					"live": "/templates/site/dist/img/cases/coin-45.svg",
+					"value": "45",
+					"probability": "1",
+					"id": "9"
+				},
+				{
+					"name": "Монета \"50\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-50.svg",
+					"live": "/templates/site/dist/img/cases/coin-50.svg",
+					"value": "50",
+					"probability": "1",
+					"id": "10"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"name": "Кейс 2-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-100.svg",
+			"description": "Содержит от 10₽ до 100₽",
+			"cat": "Кейсы на деньги",
+			"price": 50,
+			"won": 2340,
+			"prizes": [
+				{
+					"name": "Монета \"10\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-10.svg",
+					"live": "/templates/site/dist/img/cases/coin-10.svg",
+					"value": "10",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"15\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-15.svg",
+					"live": "/templates/site/dist/img/cases/coin-15.svg",
+					"value": "15",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"20\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-20.svg",
+					"live": "/templates/site/dist/img/cases/coin-20.svg",
+					"value": "20",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"30\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-30.svg",
+					"live": "/templates/site/dist/img/cases/coin-30.svg",
+					"value": "30",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"40\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-40.svg",
+					"live": "/templates/site/dist/img/cases/coin-40.svg",
+					"value": "40",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"50\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-50.svg",
+					"live": "/templates/site/dist/img/cases/coin-50.svg",
+					"value": "50",
+					"probability": "4",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"60\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-60.svg",
+					"live": "/templates/site/dist/img/cases/coin-60.svg",
+					"value": "60",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"70\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-70.svg",
+					"live": "/templates/site/dist/img/cases/coin-70.svg",
+					"value": "70",
+					"probability": "3",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"80\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-80.svg",
+					"live": "/templates/site/dist/img/cases/coin-80.svg",
+					"value": "80",
+					"probability": "3",
+					"id": "8"
+				},
+				{
+					"name": "Монета \"90\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-90.svg",
+					"live": "/templates/site/dist/img/cases/coin-90.svg",
+					"value": "90",
+					"probability": "1",
+					"id": "9"
+				},
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "1",
+					"id": "10"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Кейс 3-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-250.svg",
+			"description": "Содержит от 20₽ до 250₽",
+			"cat": "Кейсы на деньги",
+			"price": 70,
+			"won": 560,
+			"prizes": [
+				{
+					"name": "Монета \"30\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-30.svg",
+					"live": "/templates/site/dist/img/cases/coin-30.svg",
+					"value": "30",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"40\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-40.svg",
+					"live": "/templates/site/dist/img/cases/coin-40.svg",
+					"value": "40",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"50\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-50.svg",
+					"live": "/templates/site/dist/img/cases/coin-50.svg",
+					"value": "50",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"60\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-60.svg",
+					"live": "/templates/site/dist/img/cases/coin-60.svg",
+					"value": "60",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"70\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-70.svg",
+					"live": "/templates/site/dist/img/cases/coin-70.svg",
+					"value": "70",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"80\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-80.svg",
+					"live": "/templates/site/dist/img/cases/coin-80.svg",
+					"value": "80",
+					"probability": "4",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"90\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-90.svg",
+					"live": "/templates/site/dist/img/cases/coin-90.svg",
+					"value": "90",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "3",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"150\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-150.svg",
+					"live": "/templates/site/dist/img/cases/coin-150.svg",
+					"value": "150",
+					"probability": "3",
+					"id": "8"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "1",
+					"id": "9"
+				},
+				{
+					"name": "Монета \"250\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-250.svg",
+					"live": "/templates/site/dist/img/cases/coin-250.svg",
+					"value": "250",
+					"probability": "1"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Кейс 4-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-500.svg",
+			"description": "Содержит от 30₽ до 500₽",
+			"cat": "Кейсы на деньги",
+			"price": 100,
+			"won": 280,
+			"prizes": [
+				{
+					"name": "Монета \"30\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-30.svg",
+					"live": "/templates/site/dist/img/cases/coin-30.svg",
+					"value": "30",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"150\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-150.svg",
+					"live": "/templates/site/dist/img/cases/coin-150.svg",
+					"value": "150",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"250\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-250.svg",
+					"live": "/templates/site/dist/img/cases/coin-250.svg",
+					"value": "250",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "3",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"350\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-350.svg",
+					"live": "/templates/site/dist/img/cases/coin-350.svg",
+					"value": "350",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "1"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "1"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"name": "Кейс 5-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-700.svg",
+			"description": "Содержит от 50₽ до 700₽",
+			"cat": "Кейсы на деньги",
+			"price": 250,
+			"won": 500,
+			"prizes": [
+				{
+					"name": "Монета \"50\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-50.svg",
+					"live": "/templates/site/dist/img/cases/coin-50.svg",
+					"value": "50",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"150\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-150.svg",
+					"live": "/templates/site/dist/img/cases/coin-150.svg",
+					"value": "150",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"250\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-250.svg",
+					"live": "/templates/site/dist/img/cases/coin-250.svg",
+					"value": "250",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "4",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"350\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-350.svg",
+					"live": "/templates/site/dist/img/cases/coin-350.svg",
+					"value": "350",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "3",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "3",
+					"id": "8"
+				},
+				{
+					"name": "Монета \"600\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-600.svg",
+					"live": "/templates/site/dist/img/cases/coin-600.svg",
+					"value": "600",
+					"probability": "1",
+					"id": "9"
+				},
+				{
+					"name": "Монета \"700\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-700.svg",
+					"live": "/templates/site/dist/img/cases/coin-700.svg",
+					"value": "700",
+					"probability": "1",
+					"id": "10"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"name": "Кейс 6-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-1000.svg",
+			"description": "Содержит от 70₽ до 1000₽",
+			"cat": "Кейсы на деньги",
+			"price": 400,
+			"won": 2480,
+			"prizes": [
+				{
+					"name": "Монета \"70\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-70.svg",
+					"live": "/templates/site/dist/img/cases/coin-70.svg",
+					"value": "70",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "3",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"600\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-600.svg",
+					"live": "/templates/site/dist/img/cases/coin-600.svg",
+					"value": "600",
+					"probability": "3",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"700\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-700.svg",
+					"live": "/templates/site/dist/img/cases/coin-700.svg",
+					"value": "700",
+					"probability": "1",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "1",
+					"id": "8"
+				}
+			]
+		},
+		{
+			"id": "7",
+			"name": "Кейс 7-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-1500.svg",
+			"description": "Содержит от 100₽ до 1500₽",
+			"cat": "Кейсы на деньги",
+			"price": 500,
+			"won": 200,
+			"prizes": [
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "4"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "4"
+				},
+				{
+					"name": "Монета \"600\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-600.svg",
+					"live": "/templates/site/dist/img/cases/coin-600.svg",
+					"value": "600",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"700\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-700.svg",
+					"live": "/templates/site/dist/img/cases/coin-700.svg",
+					"value": "700",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "1"
+				},
+				{
+					"name": "Монета \"1500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1500.svg",
+					"live": "/templates/site/dist/img/cases/coin-1500.svg",
+					"value": "1500",
+					"probability": "1"
+				}
+			]
+		},
+		{
+			"id": "8",
+			"name": "Кейс 8-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-2500.svg",
+			"description": "Содержит от 100₽ до 2500₽",
+			"cat": "Кейсы на деньги",
+			"price": 700,
+			"won": 7900,
+			"prizes": [
+				{
+					"name": "Монета \"100\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-100.svg",
+					"live": "/templates/site/dist/img/cases/coin-100.svg",
+					"value": "100",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "3",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"600\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-600.svg",
+					"live": "/templates/site/dist/img/cases/coin-600.svg",
+					"value": "600",
+					"probability": "3",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"1500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1500.svg",
+					"live": "/templates/site/dist/img/cases/coin-1500.svg",
+					"value": "1500",
+					"probability": "1",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"2500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2500.svg",
+					"live": "/templates/site/dist/img/cases/coin-2500.svg",
+					"value": "2500",
+					"probability": "1",
+					"id": "7"
+				}
+			]
+		},
+		{
+			"id": "9",
+			"name": "Кейс 9-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-3500.svg",
+			"description": "Содержит от 150₽ до 3500₽",
+			"cat": "Кейсы на деньги",
+			"price": 1000,
+			"won": 0,
+			"prizes": [
+				{
+					"name": "Монета \"150\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-150.svg",
+					"live": "/templates/site/dist/img/cases/coin-150.svg",
+					"value": "150",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"300\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-300.svg",
+					"live": "/templates/site/dist/img/cases/coin-300.svg",
+					"value": "300",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "5"
+				},
+				{
+					"name": "Монета \"600\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-600.svg",
+					"live": "/templates/site/dist/img/cases/coin-600.svg",
+					"value": "600",
+					"probability": "4"
+				},
+				{
+					"name": "Монета \"700\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-700.svg",
+					"live": "/templates/site/dist/img/cases/coin-700.svg",
+					"value": "700",
+					"probability": "4"
+				},
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"1500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1500.svg",
+					"live": "/templates/site/dist/img/cases/coin-1500.svg",
+					"value": "1500",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"2500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2500.svg",
+					"live": "/templates/site/dist/img/cases/coin-2500.svg",
+					"value": "2500",
+					"probability": "1"
+				},
+				{
+					"name": "Монета \"3500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-3500.svg",
+					"live": "/templates/site/dist/img/cases/coin-3500.svg",
+					"value": "3500",
+					"probability": "0.1"
+				}
+			]
+		},
+		{
+			"id": "10",
+			"name": "Кейс 10-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-6000.svg",
+			"description": "Содержит от 200₽ до 6000₽",
+			"cat": "Кейсы на деньги",
+			"price": 1500,
+			"won": 2900,
+			"prizes": [
+				{
+					"name": "Монета \"200\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-200.svg",
+					"live": "/templates/site/dist/img/cases/coin-200.svg",
+					"value": "200",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"400\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-400.svg",
+					"live": "/templates/site/dist/img/cases/coin-400.svg",
+					"value": "400",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"700\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-700.svg",
+					"live": "/templates/site/dist/img/cases/coin-700.svg",
+					"value": "700",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "4",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"1500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1500.svg",
+					"live": "/templates/site/dist/img/cases/coin-1500.svg",
+					"value": "1500",
+					"probability": "3",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"2500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2500.svg",
+					"live": "/templates/site/dist/img/cases/coin-2500.svg",
+					"value": "2500",
+					"probability": "1",
+					"id": "6"
+				},
+				{
+					"name": "Монета \"3500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-3500.svg",
+					"live": "/templates/site/dist/img/cases/coin-3500.svg",
+					"value": "3500",
+					"probability": "1",
+					"id": "7"
+				},
+				{
+					"name": "Монета \"4000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-4000.svg",
+					"live": "/templates/site/dist/img/cases/coin-4000.svg",
+					"value": "4000",
+					"probability": "1",
+					"id": "8"
+				},
+				{
+					"name": "Монета \"6000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-6000.svg",
+					"live": "/templates/site/dist/img/cases/coin-6000.svg",
+					"value": "6000",
+					"probability": "1",
+					"id": "9"
+				}
+			]
+		},
+		{
+			"id": "11",
+			"name": "Кейс 11-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-15000.svg",
+			"description": "Содержит от 500₽ до 15000₽",
+			"cat": "Кейсы на деньги",
+			"price": 3000,
+			"won": 7500,
+			"prizes": [
+				{
+					"name": "Монета \"500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-500.svg",
+					"live": "/templates/site/dist/img/cases/coin-500.svg",
+					"value": "500",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"1500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1500.svg",
+					"live": "/templates/site/dist/img/cases/coin-1500.svg",
+					"value": "1500",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"2000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2000.svg",
+					"live": "/templates/site/dist/img/cases/coin-2000.svg",
+					"value": "2000",
+					"probability": "4",
+					"id": "3"
+				},
+				{
+					"name": "Монета \"2500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2500.svg",
+					"live": "/templates/site/dist/img/cases/coin-2500.svg",
+					"value": "2500",
+					"probability": "1",
+					"id": "4"
+				},
+				{
+					"name": "Монета \"3500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-3500.svg",
+					"live": "/templates/site/dist/img/cases/coin-3500.svg",
+					"value": "3500",
+					"probability": "1",
+					"id": "5"
+				},
+				{
+					"name": "Монета \"15000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-15000.svg",
+					"live": "/templates/site/dist/img/cases/coin-15000.svg",
+					"value": "15000",
+					"probability": "0"
+				}
+			]
+		},
+		{
+			"id": "12",
+			"name": "Кейс 12-го уровня",
+			"img": "/templates/site/dist/img/cases/coin-30000.svg",
+			"description": "Содержит от 1000₽ до 30000₽",
+			"cat": "Кейсы на деньги",
+			"price": 7000,
+			"won": 12500,
+			"prizes": [
+				{
+					"name": "Монета \"1000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-1000.svg",
+					"live": "/templates/site/dist/img/cases/coin-1000.svg",
+					"value": "1000",
+					"probability": "5",
+					"id": "0"
+				},
+				{
+					"name": "Монета \"2000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2000.svg",
+					"live": "/templates/site/dist/img/cases/coin-2000.svg",
+					"value": "2000",
+					"probability": "5",
+					"id": "1"
+				},
+				{
+					"name": "Монета \"2500\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-2500.svg",
+					"live": "/templates/site/dist/img/cases/coin-2500.svg",
+					"value": "2500",
+					"probability": "5",
+					"id": "2"
+				},
+				{
+					"name": "Монета \"4000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-4000.svg",
+					"live": "/templates/site/dist/img/cases/coin-4000.svg",
+					"value": "4000",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"6000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-6000.svg",
+					"live": "/templates/site/dist/img/cases/coin-6000.svg",
+					"value": "6000",
+					"probability": "3"
+				},
+				{
+					"name": "Монета \"10000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-10000.svg",
+					"live": "/templates/site/dist/img/cases/coin-10000.svg",
+					"value": "10000",
+					"probability": "1"
+				},
+				{
+					"name": "Монета \"15000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-15000.svg",
+					"live": "/templates/site/dist/img/cases/coin-15000.svg",
+					"value": "15000",
+					"probability": "0"
+				},
+				{
+					"name": "Монета \"30000\" рублей",
+					"img": "/templates/site/dist/img/cases/coin-30000.svg",
+					"live": "/templates/site/dist/img/cases/coin-30000.svg",
+					"value": "30000",
+					"probability": "0"
+				}
+			]
+		}
+	]
+}

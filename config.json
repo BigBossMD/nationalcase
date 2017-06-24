@@ -1,0 +1,57 @@
+{
+	"url": "upcash.pro",
+	"debug": false,
+	"webmaster": "raccoon@aircodes.pro",
+	"profitperc": "0.51",
+	"vk": {
+		"appid": "5743516",
+		"secret": "kVQ4cmuoPyKHIZlXBcXv"
+	},
+	"express": {
+		"port": "80",
+		"secret": "exsecretp2"
+	},
+	"mysql": {
+		"host": "localhost",
+		"user": "root",
+		"pass": "qweqwe123",
+		"db": "brocash"
+	},
+	"socket": {
+		"port": "4259"
+	},
+	"admin": {
+		"admins": [
+			"354288498",
+			"198738258"
+		]
+	},
+	"extra": {
+		"1": {
+			"chance": 0.1,
+			"price": "5"
+		},
+		"2": {
+			"chance": 0.2,
+			"price": "10"
+		},
+		"3": {
+			"chance": 0.3,
+			"price": "15"
+		}
+	},
+	"merchant": {
+		"id": 41066,
+		"secret": "oxi7wrk9",
+		"secret2": "z6r2uik9"
+	},
+	"ref": {
+		"guest": {
+			"value": 10
+		},
+		"ref": {
+			"type": "perc",
+			"value": 0.05
+		}
+	}
+}
